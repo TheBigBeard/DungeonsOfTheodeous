@@ -2,7 +2,6 @@
 #define INITIALSCREEN_H
 
 #include <stdlib.h>
-#include <stdio.h>
 #include <unistd.h>
 #include <ncurses.h>
 #include <vector>
